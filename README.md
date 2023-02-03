@@ -1,2 +1,7 @@
-[Implementaciones]
+Implementaciones
 ==================
+
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
