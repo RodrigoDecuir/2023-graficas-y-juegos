@@ -1,4 +1,4 @@
 Gráficas y Juegos 
 ==================
 
->[Implementaciones]
+[Implementaciones]
